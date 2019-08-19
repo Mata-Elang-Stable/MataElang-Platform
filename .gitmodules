@@ -1,6 +1,6 @@
 [submodule "KaspaServices"]
 	path = KaspaServices
-	url = ../KaspaServices.git
+	url = "git@github.com:mata-elang-pens/KaspaServices.git"
 [submodule "KaspaCoreSystem"]
 	path = KaspaCoreSystem
-	url = ../KaspaCoreSystem.git
+	url = "git@github.com:mata-elang-pens/KaspaCoreSystem.git"
