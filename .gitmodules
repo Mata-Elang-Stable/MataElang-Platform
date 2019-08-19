@@ -1,0 +1,6 @@
+[submodule "KaspaServices"]
+	path = KaspaServices
+	url = ../KaspaServices.git
+[submodule "KaspaCoreSystem"]
+	path = KaspaCoreSystem
+	url = ../KaspaCoreSystem.git
