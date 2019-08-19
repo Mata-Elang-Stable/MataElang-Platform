@@ -4,3 +4,6 @@
 [submodule "KaspaCoreSystem"]
 	path = KaspaCoreSystem
 	url = "git@github.com:mata-elang-pens/KaspaCoreSystem.git"
+[submodule "snoqtt-alpine-pcap"]
+	path = snoqtt-alpine-pcap
+	url = git@github.com:mata-elang-pens/snoqtt-alpine-pcap.git
